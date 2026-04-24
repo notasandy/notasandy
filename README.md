@@ -12,8 +12,9 @@ NOTASANDY(1)                    Developer Manual                   NOTASANDY(1)
 
 **DESCRIPTION**
 &emsp;Studying software engineering. Background in web development.
+&emsp;Builds VS Code extensions, Telegram & Discord bots, and other small tools.
 &emsp;Prefers things that _just work_ over things that merely impress.
-&emsp;Currently shipping VS Code extensions and learning C++.
+&emsp;Currently learning C++.
 
 ---
 
