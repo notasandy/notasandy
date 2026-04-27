@@ -24,6 +24,8 @@ NOTASANDY(1)                    Developer Manual                   NOTASANDY(1)
 |------|-------------|--------|
 | [copy-for-ai](https://github.com/notasandy/copy-for-ai) | copy code with full context for AI assistants | `active` |
 
+| [autoreadme](https://github.com/notasandy/autoreadme) | generate a complete README.md from your actual codebase. | `active` |
+
 ---
 
 **ENVIRONMENT**
@@ -56,5 +58,5 @@ Ethereum        →  0x71935c8400cf808e4bde9aaa80c251e4da90dd01
 &emsp;`git clone`, `npm install`, `ctrl+shift+p`
 
 ```
-                                   2025                        NOTASANDY(1)
+                                   2026                        NOTASANDY(1)
 ```
