@@ -24,8 +24,6 @@ NOTASANDY(1)                    Developer Manual                   NOTASANDY(1)
 |------|-------------|--------|
 | [copy-for-ai](https://github.com/notasandy/copy-for-ai) | copy code with full context for AI assistants | `active` |
 
-| [autoreadme](https://github.com/notasandy/autoreadme) | generate a complete README.md from your actual codebase. | `active` |
-
 ---
 
 **ENVIRONMENT**
