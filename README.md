@@ -13,8 +13,8 @@ NOTASANDY(1)                    Engineer Manual                    NOTASANDY(1)
 **DESCRIPTION**
 &emsp;I build AI infrastructure and developer tools: MCP servers, RAG pipelines,
 &emsp;and LLM-powered tooling. Backend in Python (FastAPI), async, streaming.
-&emsp;One of my MCP servers is published on **PyPI** and listed in the official
-&emsp;**MCP Registry** and **Smithery**.
+&emsp;One of my MCP servers is published on **PyPI**, listed in the official
+&emsp;**MCP Registry** and **Smithery**, and featured in **awesome-mcp-servers**.
 &emsp;Prefers things that _just work_ over things that merely impress.
 
 &emsp;**Open to remote work** — AI / LLM Engineer · Backend (Python). Worldwide.
