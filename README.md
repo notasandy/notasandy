@@ -1,60 +1,61 @@
 ```
-NOTASANDY(1)                    Developer Manual                   NOTASANDY(1)
+NOTASANDY(1)                    Engineer Manual                    NOTASANDY(1)
 ```
 
 <br>
 
 **NAME**
-&emsp;notasandy — software engineering student. builds tools that get out of the way.
+&emsp;notasandy (Sandy) — AI / LLM engineer. Builds tools that get out of the way.
 
 **SYNOPSIS**
-&emsp;notasandy `[--build <idea>]` `[--ship]` `[--repeat]`
+&emsp;notasandy `[--build <llm-tool>]` `[--ship]` `[--repeat]`
 
 **DESCRIPTION**
-&emsp;Studying software engineering. Background in web development.
-&emsp;Builds VS Code extensions, Telegram & Discord bots, and other small tools.
+&emsp;I build AI infrastructure and developer tools: MCP servers, RAG pipelines,
+&emsp;and LLM-powered tooling. Backend in Python (FastAPI), async, streaming.
+&emsp;One of my MCP servers is published on **PyPI** and listed in the official
+&emsp;**MCP Registry** and **Smithery**.
 &emsp;Prefers things that _just work_ over things that merely impress.
-&emsp;Currently learning C++.
+
+&emsp;**Open to remote work** — AI / LLM Engineer · Backend (Python). Worldwide.
 
 ---
 
 **PROJECTS**
 
-| name | description | status |
-|------|-------------|--------|
-| [copy-for-ai](https://github.com/notasandy/copy-for-ai) | copy code with full context for AI assistants | `active` |
+| name | what it is | stack | status |
+|------|------------|-------|--------|
+| [mcp-code-sanitizer](https://github.com/notasandy/mcp-code-sanitizer) | strict AI code reviewer as an MCP server (+ GitHub Action) | Python · FastMCP · Groq | `PyPI · active` |
+| [fastapi-docs-rag](https://github.com/notasandy/fastapi-docs-rag) | production-style RAG over the FastAPI docs, with streaming | FastAPI · Qdrant · embeddings | `active` |
+| [copy-for-ai](https://github.com/notasandy/copy-for-ai) | VS Code extension — copy code with full context for LLMs | TypeScript | `Marketplace` |
 
 ---
 
 **ENVIRONMENT**
 
 ```
-LANGUAGES     Python, JavaScript, C++ (learning)
-RUNTIME       Node.js, TypeScript
-PLATFORM      Linux, Docker
+LANGUAGES     Python, TypeScript / JavaScript, C++ (learning)
+AI / LLM      MCP (FastMCP), RAG, embeddings, vector DBs (Qdrant), Groq / LLM APIs
+BACKEND       FastAPI, async Python, REST, streaming responses
+PLATFORM      Linux, Docker, Git, GitHub Actions
 EDITOR        Visual Studio Code
-COFFEE        required
 ```
 
 ---
 
-**SUPPORT**
-
-This software is free. If it saved you time:
+**CONTACT**
 
 ```
-Donation Alerts  →  donationalerts.com/r/notasandy
-USDT (TRC-20)   →  TWE4wB9LBa7AdWC2tiACPQgmhSPNNniPT3
-Bitcoin         →  1LH6fSjViKuRG7o4LTVwjvdM7QDRSJqcoV
-Ethereum        →  0x71935c8400cf808e4bde9aaa80c251e4da90dd01
+EMAIL    notasandy@proton.me
+GITHUB   github.com/notasandy
 ```
 
 ---
 
 **SEE ALSO**
 
-&emsp;`git clone`, `npm install`, `ctrl+shift+p`
+&emsp;`git clone`, `uvx mcp-code-sanitizer`, `ctrl+shift+p`
 
 ```
-                                   2026                        NOTASANDY(1)
+                                   2026                         NOTASANDY(1)
 ```
