@@ -27,6 +27,7 @@ NOTASANDY(1)                    Engineer Manual                    NOTASANDY(1)
 |------|------------|-------|--------|
 | [mcp-code-sanitizer](https://github.com/notasandy/mcp-code-sanitizer) | strict AI code reviewer as an MCP server (+ GitHub Action) | Python · FastMCP · Groq | `PyPI · active` |
 | [fastapi-docs-rag](https://github.com/notasandy/fastapi-docs-rag) | production-style RAG over the FastAPI docs, with streaming | FastAPI · Qdrant · embeddings | `active` |
+| [taskmate-api](https://github.com/notasandy/taskmate-api) | task-management REST API — JWT auth, projects & tasks, tested | FastAPI · PostgreSQL · SQLAlchemy | `active` |
 | [copy-for-ai](https://github.com/notasandy/copy-for-ai) | VS Code extension — copy code with full context for LLMs | TypeScript | `Marketplace` |
 
 ---
